@@ -18,8 +18,8 @@ width="400" alt="Image 1">
 </div>
 
 ## Demo
-[![YouTube Video](https://github.com/MonikaBukov/platformer/assets/135535997/1e7fec94-5d36-4fa3-86fb-e188e5bc9383)
-)](https://youtu.be/-RSGiqLoVBY)
+
+[![YouTube Video](https://i9.ytimg.com/vi_webp/-RSGiqLoVBY/mq1.webp?sqp=CISwtqgG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSChLMA8=&rs=AOn4CLC1IB04XYYFOa09LgUXy-ud_1kjig)](https://www.youtube.com/watch?v=-RSGiqLoVBY)
 
 ## About the Project
 
@@ -27,7 +27,7 @@ In my game project, I've crafted an engaging and enjoyable experience. Players h
 
 In terms of implementation, I've taken great care to maintain a well-structured codebase. I've designed numerous classes with logical relationships, ensuring data and functions are organized effectively. Notably, I've coded the tilemap and collision systems from scratch, showcasing my problem-solving skills. I've managed dynamic memory allocation proficiently and even incorporated virtual functions.
 
-Bit more about the Tile Map code: 
+More about the Tile Map code: 
 https://youtu.be/IuH16Cmk4nY
 
 ## Technologies Used
