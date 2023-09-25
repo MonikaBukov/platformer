@@ -19,7 +19,7 @@ width="400" alt="Image 1">
 
 ## Demo
 
-[![YouTube Video](https://i9.ytimg.com/vi_webp/-RSGiqLoVBY/mq1.webp?sqp=CISwtqgG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSChLMA8=&rs=AOn4CLC1IB04XYYFOa09LgUXy-ud_1kjig)](https://youtu.be/_z2qwkzsU1s)
+[![YouTube Video](https://github.com/MonikaBukov/platformer/blob/main/Platformer.png)](https://youtu.be/_z2qwkzsU1s)
 
 ## About the Project
 
